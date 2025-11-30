@@ -61,7 +61,7 @@
 		right: 0;
 	}
 	#nav-wrap > a {
-		background: #f26522;
+		background: rgba(70, 118, 245, 0.66);
 		border: none;
 		color: white;
 		height: 60px;
