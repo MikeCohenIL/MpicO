@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9427eccb-a7b3-43ed-9874-9a7e2f38546c" name="Changes" comment="added many fetures edited main page mainly added text changed picutres and changed colors">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/BudapestTOhtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/CesareaTOhtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/JerusalemTOhtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/SeaTOhtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/boatTOhtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/kubaTohtml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/sunsetTOhtml.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +32,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MikeCohenIL/MpicO.git&quot;,
-    &quot;accountId&quot;: &quot;f018178d-6ce9-4fb2-81f6-e1bbea452d31&quot;
+    &quot;accountId&quot;: &quot;70eee298-4ac6-4a26-93c4-eb360a5dd9c7&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -40,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -48,7 +57,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/promi/OneDrive/Desktop/תואר/מדעי המחשב רופין/שנה ב/תכנות צד לקוח/H.W/MPICO",
+    "last_opened_file_path": "C:/Users/Nisan Zatlavi/IdeaProjects/MpicO/images/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,10 +69,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nisan Zatlavi\IdeaProjects\MpicO\images\portfolio" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nisan Zatlavi\IdeaProjects\MpicO\images\portfolio" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images\portfolio" />
@@ -88,6 +99,8 @@
       <workItem from="1764447402671" duration="9000" />
       <workItem from="1764506557959" duration="2073000" />
       <workItem from="1764514497394" duration="5549000" />
+      <workItem from="1764575186877" duration="22000" />
+      <workItem from="1764661198864" duration="3243000" />
     </task>
     <task id="LOCAL‎-00001" summary="added many fetures edited main page mainly added text changed picutres and changed colors">
       <option name="closed" value="true" />
