@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9427eccb-a7b3-43ed-9874-9a7e2f38546c" name="Changes" comment="added many fetures edited main page mainly added text changed picutres and changed colors">
+      <change afterPath="$PROJECT_DIR$/images/portfolio/Bryce2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/Bryce_Canyon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/DarboNYC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/Egale_Lake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/NYC_lib.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/SF_Bridge.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/b-coffee-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/b-coffee-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/banjo-player.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/beetle.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +77,9 @@
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO" />
-      <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images\portfolio" />
+      <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images" />
+      <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO" />
       <recent name="C:\Users\promi\OneDrive\Desktop\תואר\מדעי המחשב רופין\שנה ב\תכנות צד לקוח\H.W\MPICO\images\team" />
     </key>
   </component>
@@ -91,6 +103,9 @@
       <workItem from="1764514497394" duration="5549000" />
       <workItem from="1764569204973" duration="16000" />
       <workItem from="1764572642109" duration="625000" />
+      <workItem from="1764575505054" duration="9000" />
+      <workItem from="1764590982641" duration="11000" />
+      <workItem from="1764664677960" duration="2671000" />
     </task>
     <task id="LOCAL‎-00001" summary="added many fetures edited main page mainly added text changed picutres and changed colors">
       <option name="closed" value="true" />
